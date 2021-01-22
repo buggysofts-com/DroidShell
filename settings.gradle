@@ -1,0 +1,3 @@
+include ':DroidShell'
+include ':app'
+rootProject.name = "DroidShellExample"
